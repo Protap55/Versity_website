@@ -29,13 +29,7 @@ This is a front-end project designed for a university or school portal. The main
 
 ---
 
-## 📷 Preview / Screenshots
 
-> Replace with actual screenshots later
-
-![Dashboard Screenshot](images/dashboard-preview.png)
-
----
 
 ## 🚀 Getting Started
 
